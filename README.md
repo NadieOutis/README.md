@@ -3,7 +3,12 @@ Este es el primer repositorio para GitHub que hago, espero les guste.
 
 
 
-![Instagram Badge](https://gifimage.net/wp-content/uploads/2018/06/transparent-dance-gif-7.gif)
+
+<h4 align="left"> 
+  Profile views ~ <br><br>
+  <img src="https://profile-counter.glitch.me/NadieOutis/count.svg" />
+</h4>
+
 
 
 
