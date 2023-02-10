@@ -3,12 +3,16 @@ Este es el primer repositorio para GitHub que hago, espero les guste.
 
 
 
-![image](https://gifimage.net/wp-content/uploads/2018/06/transparent-dance-gif-7.gif)
+![Instagram Badge](https://gifimage.net/wp-content/uploads/2018/06/transparent-dance-gif-7.gif)
+
+
+
+
 
 
 ## ¿Cómo me llamo?
 Me llamo Luis Adolfo Sardina Zeballos. [![Instagram](https://img.shields.io/badge/IG-@LuisSardina-blue.svg?style=flat)](https://www.instagram.com/luis_sardina_)
-
+[![Steam Badge](https://img.shields.io/badge/-Steam-blue?style=social&logo=steam&link=https://steamcommunity.com/id/EgosSolus/)](https://steamcommunity.com/id/EgosSolus/)
 
 ## ¿En qué colegio estudié?
 Estudié en el [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/).
@@ -19,10 +23,10 @@ Estudié en el [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/).
 * Aprender sobre nuevas tecnologías
 
 ## ¿Por qué estudio ingeniería en sistemas?
-(Estudio ingenieria en sistemas porque me interesa el mundo digital y cómo las tecnologías pueden mejorar la vida de las personas. Además, esta carrera ofrece una amplia gama de oportunidades de trabajo en una industria en constante crecimiento, y me gustaría contribuir al desarrollo de nuevas tecnologías y soluciones innovadoras.
+Estudio ingenieria en sistemas porque me interesa el mundo digital y cómo las tecnologías pueden mejorar la vida de las personas. Además, esta carrera ofrece una amplia gama de oportunidades de trabajo en una industria en constante crecimiento, y me gustaría contribuir al desarrollo de nuevas tecnologías y soluciones innovadoras.
 
 ## ¿Cuál sería el primer producto que crearía cuando salga de la universidad?
-(Sistema de detección y prevención de amenazas cibernéticas basado en inteligencia artificial que utiliza técnicas de aprendizaje automático y análisis de datos para analizar patrones y detectar posibles amenazas en tiempo real, con capacidades de prevención como el bloqueo automático de ataques conocidos y aislamiento de sistemas comprometidos.)
+Sistema de detección y prevención de amenazas cibernéticas basado en inteligencia artificial que utiliza técnicas de aprendizaje automático y análisis de datos para analizar patrones y detectar posibles amenazas en tiempo real, con capacidades de prevención como el bloqueo automático de ataques conocidos y aislamiento de sistemas comprometidos.)
 
 ## ¿Qué lenguajes de programación conozco actualmente?
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Python-red.svg)
