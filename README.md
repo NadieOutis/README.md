@@ -1,16 +1,22 @@
 # Mi primer repositorio
 Este es el primer repositorio para GitHub que hago, espero les guste.
 
+
+
+![image](https://gifimage.net/wp-content/uploads/2018/06/transparent-dance-gif-7.gif)
+
+
 ## ¿Cómo me llamo?
-Me llamo Luis Adolfo Sardina Zeballos.
+Me llamo Luis Adolfo Sardina Zeballos. [![Instagram](https://img.shields.io/badge/IG-@LuisSardina-blue.svg?style=flat)](https://www.instagram.com/luis_sardina_)
+
 
 ## ¿En qué colegio estudié?
 Estudié en el [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/).
 
 ## ¿Cuáles son mis hobbies?
-* (Jugar videojuegos)
-* (Leer cómics)
-* (Aprender sobre nuevas tecnologías)
+* Jugar videojuegos
+* Leer cómics
+* Aprender sobre nuevas tecnologías
 
 ## ¿Por qué estudio ingeniería en sistemas?
 (Estudio ingenieria en sistemas porque me interesa el mundo digital y cómo las tecnologías pueden mejorar la vida de las personas. Además, esta carrera ofrece una amplia gama de oportunidades de trabajo en una industria en constante crecimiento, y me gustaría contribuir al desarrollo de nuevas tecnologías y soluciones innovadoras.
@@ -21,6 +27,4 @@ Estudié en el [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/).
 ## ¿Qué lenguajes de programación conozco actualmente?
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Python-red.svg)
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Lua-blue.svg)
-![Lenguaje] (https://img.shields.io/badge/Lenguaje-C++-green.svg)
-![Lenguaje] (https://img.shields.io/badge/Lenguaje-Java-orange.svg)
 
