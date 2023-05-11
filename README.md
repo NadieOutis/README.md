@@ -35,5 +35,8 @@ Sistema de detección y prevención de amenazas cibernéticas basado en intelige
 
 ## ¿Qué lenguajes de programación conozco actualmente?
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Python-red.svg)
+##Potencialidades
+Tengo una habilidad natural para resolver problemas: Desde que comencé mi carrera en ingeniería de sistemas, he tenido la oportunidad de enfrentar desafíos complejos y buscar soluciones prácticas. A lo largo del tiempo, he desarrollado mi capacidad para resolver problemas de manera creativa y eficiente.
+
 
 
