@@ -35,5 +35,5 @@ Sistema de detección y prevención de amenazas cibernéticas basado en intelige
 
 ## ¿Qué lenguajes de programación conozco actualmente?
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Python-red.svg)
-![Lenguaje](https://img.shields.io/badge/Lenguaje-Lua-blue.svg)
+
 
